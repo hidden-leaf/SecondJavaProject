@@ -1,0 +1,21 @@
+Dear John Williams
+
+There aren't enough tickets left for the Football event to fulfill your order.
+
+Apologies
+World Sports Championships.
+
+Dear Anna Smith
+
+There aren't enough tickets left for the Tennis event to fulfill your order.
+
+Apologies
+World Sports Championships.
+
+Dear Emma Williams
+
+There aren't enough tickets left for the Athletics event to fulfill your order.
+
+Apologies
+World Sports Championships.
+
